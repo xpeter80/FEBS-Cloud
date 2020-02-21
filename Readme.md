@@ -1,9 +1,4 @@
-### FEBS Cloud 微服务权限系统
-![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
-![https://img.shields.io/badge/springcloud-Hoxton.RELEASE-yellow.svg?style=flat-square](https://img.shields.io/badge/springcloud-Hoxton.RELEASE-yellow.svg?style=flat-square)
-![https://img.shields.io/badge/SpringCloudAlibaba-2.1.1.RELEASE-blueviolet.svg?style=flat-square](https://img.shields.io/badge/SpringCloudAlibaba-2.1.1.RELEASE-blueviolet.svg?style=flat-square)
-![https://img.shields.io/badge/springboot-2.2.0.RELEASE-brightgreen.svg?style=flat-square](https://img.shields.io/badge/springboot-2.2.0.RELEASE-brightgreen.svg?style=flat-square)
-![https://img.shields.io/badge/vue-2.6.10-orange.svg?style=flat-square](https://img.shields.io/badge/vue-2.6.10-orange.svg?style=flat-square)
+微服务权限系统
 
 FEBS Cloud是一款使用Spring Cloud Hoxton.RELEASE、Spring Cloud OAuth2 & Spring Cloud Alibaba构建的低耦合权限管理系统，前端（FEBS Cloud Web）采用vue element admin构建。FEBS意指：**F**ast，**E**asy use，**B**eautiful和**S**afe。该系统具有如下特点：
 
@@ -212,22 +207,3 @@ Grafana账号密码：febs，123456
      <td width="50%" align="top"><img src="images/skywalking_trace.png"/></td>
   </tr>
 </table>
-
-
-### 参与贡献
-欢迎提交PR一起完善项目，以下为提PR并合并的小伙伴（排名不分先后）：
-
-<a href="https://github.com/yuuki80code">
-    <img src="https://avatars1.githubusercontent.com/u/17798853?s=400&v=4" width="45px"></a>
-<a href="https://github.com/sonake">
-    <img src="https://avatars3.githubusercontent.com/u/46209482?s=400&v=4" width="45px"></a>
-<a href="https://github.com/mgzu">
-    <img src="https://avatars1.githubusercontent.com/u/29629221?s=400&v=4" width="45px"></a>
-<a href="https://github.com/liuzhuoming23">
-    <img src="https://avatars1.githubusercontent.com/u/41719224?s=400&v=4" width="45px"></a>
-
-### 反馈交流
-
-加入QQ群和大家一起~~交流~~吹水：
-
-![qq](images/QQ.jpg)
